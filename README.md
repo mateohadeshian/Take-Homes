@@ -1,7 +1,4 @@
-# Take-Homes
-A collection of take home interview problems and their solutions
-
-1. Problem: Perimeter product
+Problem: Perimeter product
 
 You are given a list of line segments represented as a set of two x,y points.
 
